@@ -7,7 +7,6 @@
 // 	}
 // }
 
-
 // module.exports = {
 // 	entry:'./src/script/main.js',
 // 	output:{
